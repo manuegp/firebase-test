@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\dev\firebase-test\curso-firebase-ef197-firebase-adminsdk-ej5pl-dc886b6d2c.json"
